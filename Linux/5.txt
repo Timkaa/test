@@ -1,0 +1,3 @@
+ln -s /var/www/logs/access.log link
+$ mv link /var/www/html/
+создание символической ссылки и перенос в другую папку

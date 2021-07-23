@@ -1,0 +1,7 @@
+$ cat 404.html
+404
+
+$ cat 404.html | sed '403.html'
+403
+
+замена через cat

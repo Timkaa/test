@@ -1,0 +1,6 @@
+echo <html>
+    <head>
+        <title>503</title>
+    </head>
+</html> > 503.html /var/www/html/
+создание файла с текстом внутри

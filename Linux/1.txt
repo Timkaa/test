@@ -1,0 +1,1 @@
+ls -R /var/www/html > filename список всех файлов в папке html переноситься в отдельный файл filename
